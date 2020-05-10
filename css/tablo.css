@@ -1,0 +1,107 @@
+#BaslikOzgecmis{
+    text-align: left;
+    color:darkred;
+    font-size: 50px;
+    margin-top: 5%;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 70px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 18px;
+    font-size:18px;
+        
+}
+#tablobaslik0{
+    text-align: center;
+    margin-top: 1%;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+
+#tablobaslik1{
+    margin-top: 1%;
+    color: black;
+    background-color: darkorange;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+#tablobaslik2{
+    margin-top: 5%;
+    color: black;
+    background-color: darkcyan;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+#tablobaslik3{
+    margin-top: 5%;
+    color: black;
+    background-color: darkmagenta;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+#tablobaslik4{
+    margin-top: 5%;
+    color: black;
+    background-color: darkturquoise;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+#tablobaslik5{
+    margin-top: 5%;
+    color: black;
+    background-color:darkgoldenrod;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+.container{
+    margin-top: 5%;
+}
+
+#container1{
+    
+   background-color: whitesmoke;
+    border: 2px solid black;
+}
+table{
+   
+   
+}
+.col1{
+    margin-top: 5%;
+}
+
+#Ocontainer1{
+    
+    border: none;
+}
+#tresim{
+     border: 2px solid black;
+   
+   border-radius:20%;
+    
+    position: relative;
+    top:-42%;
+   display: block;
+  max-width: 80% !important ;
+  height: auto;
+    
+}
+.row,.column{
+   box-sizing: border-box;
+}
+footer{
+    margin-top: 5%;
+}
+#tabloo{
+    border-collapse:collapse;
+    table-layout:auto;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 2%;
+ margin-bottom: 2%;
+}
+

@@ -1,0 +1,601 @@
+.navbar{
+  background-color:darkslateblue!important ; 
+    margin-bottom:1% !important;
+   
+}
+.nav-item{
+    
+    font-size: 16px !important;
+}
+.nav-item a{
+            color: ghostwhite!important;
+            font-size: 20px !important;
+            margin-left: %5 !important;
+        }
+.nav-item a:hover
+{
+   background-color:cornsilk;
+}
+
+html,
+body,
+#cover{
+    
+    height: 100%;
+    
+    
+}
+
+#hakkındailksecim{
+    
+}
+
+
+/*
+#cover{
+    background: url('../Resimler/gercek.jpg') no-repeat center center fixed;
+    background-size:cover;
+    
+    
+}
+*/
+.container div.Hrow1 h2{
+    
+  color:darkslateblue;
+    font-size: 50px;
+    margin-top: 5%;
+   font-family: 'Dancing Script', cursive;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+#deneme{
+    text-align: center;
+    font-size: 15px;
+   padding:  10%;
+    background:url('../Resimler/bulutt.jpg') no-repeat center center fixed;
+    background-size: cover;    
+}
+
+
+#altsutun{
+    margin-left: 0;
+    font-size: 30px;
+    background-color: darkblue;
+    color: white;
+}
+#dahaaltsutun{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 0px !important;
+    background:white;
+}
+
+.fixed-top{
+    
+    max-width: 1540px;
+    margin: 0 auto;
+}
+
+
+a.nav-link{
+    
+    transition: color 0.75s ease;
+    -webkit-transition: color 0.75s ease;
+     -moz-transition: color 0.75s ease;
+     -o-transition: color 0.75s ease;
+    
+}
+
+a.nav-link:hover{
+    color: orange !important;
+}
+
+a.dropdown-item{
+    
+   transition: color 0.50 ease;
+}
+
+a.dropdown-item:hover{
+    
+   color: darkorange!important;
+}
+
+div.dropdown-menu
+{
+   top:50px;
+    background-color: white  !important;
+}
+
+#ilkresim{
+    margin-bottom: 20px;
+    margin:auto;
+    margin-bottom: 10px;
+} 
+  
+
+.container1{
+    margin-top: 10%;
+    margin-bottom:5%;
+    background-color: floralwhite;
+}
+.Hrow1{
+    text-align: center;
+    padding-top: 0;
+   
+}
+
+
+footer{
+    width:100%;
+    padding: 100px 0;
+    position:inherit;
+    background:url('../Resimler/footerc.jpg') no-repeat center center fixed;
+    background-size:cover;
+
+}
+.footerKutu{
+    background-color: aqua;
+    float: left;
+}
+
+
+.footerKutu h1{
+    text-align: center;
+    color: white;
+     font-family: 'Pacifico', cursive;
+     font-size: 48px; 
+    line-height: 100px;
+    
+}
+
+#footerContainer{
+    width:100%;
+    position: relative;
+    
+}
+
+footer div#footerContainer div.footerBox{
+    width:auto;
+    position: relative;
+    float:left;
+    text-align: center;
+    color: white;   
+     margin-left: 10% !important;
+}
+footer div#footerContainer div.footerBox h1{
+     font-family: 'Pacifico', cursive;
+     font-size: 48px; 
+    line-height: 100px;
+   
+    
+}
+
+footer div#footerContainer div.footerBox h2{
+   
+     font-size: 28px;
+     line-height: 60px;
+    border-bottom: 2px solid black ;
+    width: 300px;
+    padding-top: 5%;
+    margin: auto;
+}
+.footerLink{
+    color: white;
+}
+.footerLink:hover{
+    color: red;
+}
+
+footer div#footerContainer div.footerBox p{
+    text-align: left;
+    font-size: 16px;
+    line-height: 30px;
+     width: 300px;
+    margin: auto
+}
+#giris{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+    
+        
+}
+#ilkgiris{
+    color: whitesmoke;
+    font-size:20px;
+    background-color:darkslateblue;
+    margin-top: 50px;
+    padding: 50px;
+}
+#giris1{
+    background-color: darkred;
+    
+}
+#giris2{
+    background-color: darkblue;
+}
+.link2{
+    color: white;
+}
+.link2:hover{
+    color: blue;
+}
+
+.link1{
+    color: white;
+}
+.link1:hover{
+    color: red;
+}
+#secenek{
+    font-size: 30px;
+    margin: auto;
+    padding-left: 0;
+}
+#secenek1{
+    background-color: darkslategray;
+   
+}
+#secenek2{
+    background-color: darkslategray;
+}
+.ResimTip1{
+    padding: 10px;
+  max-width: 100% !important;
+  height:inherit;
+}
+
+.govdeHakkında{
+    max-width: 100%;
+     height: auto !important;
+    background: url('../Resimler/gercek.jpg') no-repeat center center fixed;
+    background-size:cover;
+} 
+.govdeOzgecmis{
+    background: url('../Resimler/arka.png')no-repeat center center fixed;
+    background-size:cover;
+}
+
+.Ocontainer1{
+    margin: 9% auto;
+}
+.Ocontainer1 div.Hrow1 h2{
+    
+  color:darkslateblue;
+    font-size: 50px;
+    margin-top: 5%;
+   font-family: 'Dancing Script', cursive;
+    margin-bottom: 50px;
+   
+}
+#Scontainer div.Srow h2
+{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding:15px;
+    background-color:indianred;
+    color:whitesmoke;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 60px;
+     border: 6px double   black;
+}
+#Scontainer div.Srow h3
+{
+    margin-top: 5%;
+    background-color: yellow;
+    color:black;
+    font-family: 'Roboto Mono', monospace;
+}
+#Scontainer div.Srow h4
+{
+    margin-top: 1%;
+    background-color:aqua;
+    color:black;
+    font-family: 'Roboto Mono', monospace;
+}
+#Scontainer div.Srow h5
+{
+    margin-top: 1%;
+    background-color:aquamarine;
+    color:black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+.containert{
+    margin: 10% auto;
+    background-color: whitesmoke;
+}
+#table1{
+   margin-left:0px !important ;
+     border: 3px solid yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+}
+.rowt{
+    text-align: left;
+}
+#tabloBaslık{
+    
+    
+  color:darkslateblue;
+    font-size: 50px;
+    margin-top: 5%;
+   font-family: 'Dancing Script', cursive;
+    margin-bottom: 50px;
+    
+    
+}
+#Osection1{
+    
+}
+#Scontainer{
+    padding-bottom: 5%;
+    margin-top: 5%;
+}
+#SehrimGovde{
+    background-image: url(../Resimler/sehir.jpg);
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+     background-size: cover;
+}
+#Ssection{
+/*    background: url('../Resimler/sehir.jpg')no-repeat center center fixed;*/
+    
+}
+
+#Smetin0{
+    text-align: left;
+    padding-top:2%; 
+    background-color: whitesmoke;
+    margin-top: 0;
+}
+#Slider{
+    margin-top: 10% ;
+}
+
+
+.ResimTip2{
+    padding-top: 40%;
+    border-radius:0%;
+  max-width: 100% !important;
+  height:inherit;
+   
+}
+#MirasimizContainerf{
+    margin-top: 7%;
+   padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 7%;
+   background-color: black;
+   
+   
+}
+#MSatir0{
+    color: floralwhite;
+    text-align: center;
+    
+}
+#MSatir0 h2{
+    text-align:right;
+    font-size: 60px;
+}
+#MSatir1{
+    color: black;
+     transition: background-color .3s linear;
+     border-radius: 5%;
+    margin-top: 1%;
+}
+#xxx{
+    margin-top: 1%;
+}
+#MSatir1 h2{
+    text-align: center;
+    font-size: 20px;
+    background-color:deepskyblue;
+}
+#MSatir1 h3{
+    padding-top:4%;
+    color: black;
+    
+}
+#MSatir2{
+    color: black;
+     transition: background-color .3s linear;
+     border-radius: 5%;
+    margin-top: 1%;
+}
+#MSatir2 h3{
+    padding-top:10%;
+    color: black;
+    
+}
+#MSatir3{
+    color: black;
+     transition: background-color .3s linear;
+     border-radius: 5%;
+    margin-top: 1%;
+}
+#MSatir3 h3{
+    padding-top:10%;
+    color: black;
+    
+}
+#MSatir4{
+    color: black;
+     transition: background-color .3s linear;
+     border-radius: 5%;
+    margin-top: 1%;
+}
+#MSatir4 h3{
+    padding-top:10%;
+    color: black;
+    
+}
+
+
+#MSatir1 h3:hover{
+    
+    
+    color: red;
+    transition: color .5s linear;
+}
+
+.ResimTip3{
+     margin-top: 20%;
+     margin-bottom: 20%;
+  max-width: 100% !important;
+
+  height:inherit;
+    border-radius: 10%;
+border: 5px solid white ;
+   
+}
+#MSatir1:hover{
+    background-color: white;
+}
+#MSatir2:hover{
+    background-color: aqua;
+    
+}
+#MSatir3:hover{
+    background-color:greenyellow;
+    
+}
+#MSatir4:hover{
+    background-color:aquamarine;
+    
+}
+
+#MSatir2 h3:hover{
+    
+    
+    color: red;
+    transition: color .5s linear;
+}
+#MSatir3:hover{
+    background-color:greenyellow;
+    
+}
+#MSatir3 h3:hover{
+    
+    
+    color: red;
+    transition: color .5s linear;
+}
+#MSatir4 h3:hover{
+    
+    
+    color: red;
+    transition: color .5s linear;
+}
+#mirasimizBody{
+    background-color: black;
+}
+#loginSection{
+    
+    
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-bottom: 45%;
+    padding-bottom: 20%;
+    padding-top: 10%;
+     
+    width: 100%;
+}
+
+
+
+input.gonder{
+    background:#2981E4;
+    padding:5px 10px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 20px Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px #000;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+   
+}
+input.gonder:hover{
+     background-color:#006699;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+.formLogin{
+    margin-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-right: 5%;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 30%;
+    text-align: center;
+    float: right;
+    width: 70%;
+}
+.formLogin:hover{
+   background-color: darkcyan;
+}
+
+.formLogin-item0{
+    margin-top:1%;
+    width: 50%;
+}
+.formLogin-item{
+    margin-top:1%;
+    width: 25%;
+}
+.formLogin-item:hover{
+    font-weight: bold;
+    color: red;
+    
+}
+.formLogin-item0:placeholder-shown{
+   font-style: italic;
+    text-align: center;
+}
+#loginid{
+    background-image: url(../Resimler/insan.jpg);
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+     background-size: cover;
+}
+#iletisimContainer{
+    
+    padding: 10% 10%;
+    margin: 10% 10%;
+   background-color:forestgreen;
+    opacity: 0.9;
+    border: 10px double black;
+    border-radius: 10%
+}
+#iletisimGovde{
+    background-image: url(../Resimler/iletisim.jpg);
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+     background-size: cover;
+}
+
+#containerDeneme{
+    margin-top: 10%;
+    background-color: red !important;
+}
+#label1{
+    color:red;
+}
+
+
+
+
+
+
+
+
